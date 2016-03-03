@@ -1,0 +1,43 @@
+analsraun manummerias. 61
+
+“ callarius Sancti Pauli London et magistri W. et W.
+“ ds Sanoiae Marias ecclesia et de Purle, salutem.
+“ Mandatum domini Papae in heco verba suscepimus:
+
+“ ‘Gregorius episcopus, servus servorum Dei, dilectis
+“ ‘filiis cancellarie, magistris W. de Purle et W. de
+“ ‘Sancte Mariae ecclesia canonicis London’, salutem
+“ ‘et apostolicam benedictionem. Dilectus filius ma·
+‘¹ ‘gister J. persona de Cred[ewelle], clericus dilecti filii
+“ ‘nostri tituli Sancte Praxedis presbyteri cardinalis,
+“ ‘exposuit coram nobis quod, orta olim inter abbatem
+“ ‘et conventum monasterii de Melmcsburia, Sarum
+‘¹ ‘diocesis ejusdem ecclesiae patronos, ex parte uns,
+“ ‘et episcopum et capitulum Sarum ex altera, super
+“ ‘exemptione monasterii quaestione, ao aliquamdiu
+“ ‘ coram judice delegatos sede apostolico ventilata, ex
+“ ‘compositione tandem inita inter partes: idem abbas et
+“ ‘conventus predictus, episeopo et capitulo pro eo
+“ ‘quod idem quaestioni cesserunt in bonis ipsius mo-
+“ ‘ nestorii, certos redditus assignarunt. Procedente vero
+“ ‘temporo praefati abbas et conventus ex assignatione
+“ ‘dictorum reddituum se graviter laesos csse conque-
+“ ‘rentes in recompensatione eorumdem reddituum
+“ ‘quasdam decimas ecclesiae supradictae ab eisdem
+“ ‘episcopo et capitulo sibi obtinuere concedi, ut
+“ ‘post obitum personne tunc eidem ecclesius praesiden-
+“. ‘ tis adipiscendi possessionem earum liberem haberent
+“ ‘facultatem sicque dicti obbas et conventus occasione
+“ ‘concessionis hujusmodi decimas ipsas temere oocu-
+“ ‘pare contendunt. Quare nobis idem magister Jo-
+“ ‘hannes humiliter supplicavit ut indempnitati ejus-
+“ ‘dem ecclesias, tam super eisdem decimis, quam super
+“ ‘aliia quse de bonis ipsius alienata sunt illicite ae
+‘¹ ‘distracta providere misericorditer dignaremur. No· ’
+“ ‘lentes igitur eidem in suo jure deesse qui fevo-
+“ ‘rabiliter ademe tenemur, discretioni vcstrae per
+
+¹ Sic.
+
+ 
+
